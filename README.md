@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/chatwoot/chatwoot/tree/master" alt="Deploy to Heroku">
+  <a href="https://heroku.com/deploy?template=https://github.com/nerds-and-company/bolscher-chatwoot/tree/develop" alt="Deploy to Heroku">
      <img alt="Deploy" src="https://www.herokucdn.com/deploy/button.svg"/>
   </a>
 </p>
 
-___
+---
 
 <p align="center">
   <a href="https://codeclimate.com/github/chatwoot/chatwoot/maintainability"><img src="https://api.codeclimate.com/v1/badges/80f9e1a7c72d186289ad/maintainability" alt="Maintainability"></a>
@@ -40,7 +40,7 @@ You can find the quick setup docs [here](https://www.chatwoot.com/docs/quick-set
 ## Branching model
 
 We use [git-flow](https://nvie.com/posts/a-successful-git-branching-model/) branching model. The base branch is `develop`.
-If you are looking for a stable version, please use the `master` or tags labelled as `v1.x.x`. 
+If you are looking for a stable version, please use the `master` or tags labelled as `v1.x.x`.
 
 ## Heroku one-click deploy
 
@@ -62,5 +62,4 @@ Thanks goes to all these [wonderful people](https://www.chatwoot.com/docs/contri
 
 <a href="https://github.com/chatwoot/chatwoot/graphs/contributors"><img src="https://opencollective.com/chatwoot/contributors.svg?width=890&button=false" /></a>
 
-
-*Chatwoot* &copy; 2017-2020, ThoughtWoot Inc - Released under the MIT License.
+_Chatwoot_ &copy; 2017-2020, ThoughtWoot Inc - Released under the MIT License.
